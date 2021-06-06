@@ -1,0 +1,13 @@
+.form-box {
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: auto auto;
+    padding: 40px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #000;
+    position: absolute;
+
+    left: 0;
+    right: 0;
+    width: 800px;
+    height: 1050px;
+}
